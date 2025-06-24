@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\",
+  "WorkspaceRootPath": "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA88CF81-6741-469C-960C-3083EFC9456F}|TaskForInterview\\TaskForInterview.csproj|c:\\users\\cvrateng\\source\\repos\\taskforinterview\\taskforinterview\\cartpagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA88CF81-6741-469C-960C-3083EFC9456F}|TaskForInterview\\TaskForInterview.csproj|d:\\strahinjaspasojevicinterviewtask\\selenium\\taskforinterview\\taskforinterview\\cartpagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA88CF81-6741-469C-960C-3083EFC9456F}|TaskForInterview\\TaskForInterview.csproj|solutionrelative:taskforinterview\\cartpagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA88CF81-6741-469C-960C-3083EFC9456F}|TaskForInterview\\TaskForInterview.csproj|c:\\users\\cvrateng\\source\\repos\\taskforinterview\\taskforinterview\\loginpagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA88CF81-6741-469C-960C-3083EFC9456F}|TaskForInterview\\TaskForInterview.csproj|d:\\strahinjaspasojevicinterviewtask\\selenium\\taskforinterview\\taskforinterview\\loginpagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA88CF81-6741-469C-960C-3083EFC9456F}|TaskForInterview\\TaskForInterview.csproj|solutionrelative:taskforinterview\\loginpagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA88CF81-6741-469C-960C-3083EFC9456F}|TaskForInterview\\TaskForInterview.csproj|c:\\users\\cvrateng\\source\\repos\\taskforinterview\\taskforinterview\\taskforinterview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EA88CF81-6741-469C-960C-3083EFC9456F}|TaskForInterview\\TaskForInterview.csproj|d:\\strahinjaspasojevicinterviewtask\\selenium\\taskforinterview\\taskforinterview\\taskforinterview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EA88CF81-6741-469C-960C-3083EFC9456F}|TaskForInterview\\TaskForInterview.csproj|solutionrelative:taskforinterview\\taskforinterview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CartPageTest.cs",
-              "DocumentMoniker": "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\CartPageTest.cs",
+              "DocumentMoniker": "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\CartPageTest.cs",
               "RelativeDocumentMoniker": "TaskForInterview\\CartPageTest.cs",
-              "ToolTip": "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\CartPageTest.cs",
+              "ToolTip": "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\CartPageTest.cs",
               "RelativeToolTip": "TaskForInterview\\CartPageTest.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAUwCwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T18:31:42.162Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LogInPageTest.cs",
-              "DocumentMoniker": "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\LogInPageTest.cs",
+              "DocumentMoniker": "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\LogInPageTest.cs",
               "RelativeDocumentMoniker": "TaskForInterview\\LogInPageTest.cs",
-              "ToolTip": "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\LogInPageTest.cs",
+              "ToolTip": "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\LogInPageTest.cs",
               "RelativeToolTip": "TaskForInterview\\LogInPageTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T18:25:35.414Z",
               "EditorCaption": ""
@@ -54,14 +54,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TaskForInterview.csproj",
-              "DocumentMoniker": "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj",
+              "DocumentMoniker": "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj",
               "RelativeDocumentMoniker": "TaskForInterview\\TaskForInterview.csproj",
-              "ToolTip": "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj",
+              "ToolTip": "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj",
               "RelativeToolTip": "TaskForInterview\\TaskForInterview.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-20T18:25:27.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T18:25:27.271Z"
             }
           ]
         }

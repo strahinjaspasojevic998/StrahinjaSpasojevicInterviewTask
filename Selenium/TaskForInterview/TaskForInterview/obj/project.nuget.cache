@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P21z88P2a0s=",
+  "dgSpecHash": "Qy0Be5L8uzY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj",
+  "projectFilePath": "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cvrateng\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\Cvrateng\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",

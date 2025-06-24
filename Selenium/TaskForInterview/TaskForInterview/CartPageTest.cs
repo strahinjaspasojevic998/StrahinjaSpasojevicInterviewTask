@@ -7,22 +7,22 @@ namespace TaskForInterview
     [TestFixture]
     internal class CartPageTest
     {
-        public string url = "https://www.saucedemo.com/";
-        public IWebDriver driver;
+        private string url = "https://www.saucedemo.com/";
+        private IWebDriver driver;
+
         //elements
-        public string shoppingCartBadgeMessageXPath = "//div[@id='shopping_cart_container']/a[@class='shopping_cart_link']/span[@class='shopping_cart_badge']";
-        public string buttonForAddingItemSauceLabsBackpackId = "add-to-cart-sauce-labs-backpack";
+        private string shoppingCartBadgeMessageXPath = "//div[@id='shopping_cart_container']/a[@class='shopping_cart_link']/span[@class='shopping_cart_badge']";
+        private string buttonForAddingItemSauceLabsBackpackId = "add-to-cart-sauce-labs-backpack";
 
         [SetUp]
         public void SetUp()
         {
-            var options = new ChromeOptions();
-            options.AddArgument("--incognito");
+            ChromeOptions options = new ChromeOptions();
+            options.AddArgument("--incognito"); //I had issue with Google password manager so I used Incognito mode
             this.driver = new ChromeDriver(options);
             this.driver.Manage().Window.Maximize();
             this.driver.Navigate().GoToUrl(url);
             this.LogIn();
-
         }
 
         private void LogIn()
@@ -39,20 +39,18 @@ namespace TaskForInterview
         {
             this.driver.Close();
         }
-        [Test]
 
+        [Test]
         public void TestAddingOneItemInCart()
         {
-
             this.driver.FindElement(By.Id(buttonForAddingItemSauceLabsBackpackId)).Click();
             IWebElement cartItemCount = this.driver.FindElement(By.XPath(shoppingCartBadgeMessageXPath));
             Assert.That(cartItemCount.Text, Is.EqualTo("1"), "The number of items is different then expected.");
         }
-        [Test]
 
+        [Test]
         public void TestAddingMultipleItemsInCart()
         {
-
             this.driver.FindElement(By.Id(buttonForAddingItemSauceLabsBackpackId)).Click();
             this.driver.FindElement(By.Id("add-to-cart-sauce-labs-bike-light")).Click();
             this.driver.FindElement(By.Id("add-to-cart-sauce-labs-bolt-t-shirt")).Click();
@@ -61,10 +59,9 @@ namespace TaskForInterview
             cartItemCount.Click();
             ReadOnlyCollection<IWebElement> cartListOfAddedItems = this.driver.FindElements(By.XPath("//div[@class='cart_item']"));
             Assert.That(cartListOfAddedItems.Count, Is.EqualTo(3), "The number of items is different then expected.");
-
         }
-        [Test]
 
+        [Test]
         public void TestRemovingItemFromTheCart()
         {
             this.driver.FindElement(By.Id(buttonForAddingItemSauceLabsBackpackId)).Click();
@@ -76,7 +73,6 @@ namespace TaskForInterview
             cartItemIcon.Click();
             ReadOnlyCollection<IWebElement> cartListOfAddedItems = this.driver.FindElements(By.XPath("//div[@class='cart_item']"));
             Assert.That(cartListOfAddedItems.Count, Is.EqualTo(0), "The number of items is different then expected.");
-
         }
     }
 }

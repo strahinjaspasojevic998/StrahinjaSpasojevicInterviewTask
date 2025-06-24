@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj": {}
+    "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj": {
+    "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj",
+        "projectUniqueName": "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj",
         "projectName": "TaskForInterview",
-        "projectPath": "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj",
+        "projectPath": "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\TaskForInterview.csproj",
         "packagesPath": "C:\\Users\\Cvrateng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cvrateng\\source\\repos\\TaskForInterview\\TaskForInterview\\obj\\",
+        "outputPath": "D:\\StrahinjaSpasojevicInterviewTask\\Selenium\\TaskForInterview\\TaskForInterview\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
